@@ -1,0 +1,81 @@
+C:\Users\MSI\AppData\Local\Temporary Projects\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHD.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmInfo.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSP.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHome.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTK.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\Program Files\Files FPT\INF205\Assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbprojResolveAssemblyReference.cache
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbprojResolveAssemblyReference.cache
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHD.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmInfo.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSP.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHome.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTK.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+D:\Program Files\Files FPT\INF205\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbprojResolveAssemblyReference.cache
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHD.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmInfo.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSP.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHome.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTK.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+E:\dien toan dam may\duynps02822_inf205_assignment\duynps02822_inf205_assignment\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHD.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmInfo.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSP.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHome.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTK.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+C:\Users\Anthony\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+F:\dien toan dam may\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+F:\dien toan dam may\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+F:\dien toan dam may\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+F:\dien toan dam may\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbprojResolveAssemblyReference.cache
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHD.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmInfo.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmSP.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmHome.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmTK.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+F:\dien toan dam may\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
